@@ -5,7 +5,14 @@
 
 - 📫 How to reach me **yeunidev@gmail.com**
 
-- ⚡ Fun fact **Enthusiastic mobile app developer-I code 24/7**
+- ⚡ Fun fact *Mobile is in my nerves
+ i live, breathe and dream 
+ mobile apps. My interest 
+ lies in pursuing and getting 
+ to know the best app development
+ technologies, 
+innovation and problem solving.
+**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
