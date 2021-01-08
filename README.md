@@ -16,9 +16,9 @@ innovation and problem solving.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/yeuni gilbert" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yeuni gilbert" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:8748934" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" alt="user:8748934" height="30" width="40" /></a>
-<a href="https://instagram.com/yeuni_dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="yeuni_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yeuni gilbert" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yeuni gilbert" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:8748934" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="user:8748934" height="40" width="40" /></a>
+<a href="https://instagram.com/yeuni_dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="yeuni_dev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
